@@ -23,8 +23,8 @@ Here’s a visual representation of our database schema:
 
 ![Instructors](https://i.imgur.com/9i1Nm1m.png)
 
-**Abinesh T**: [GitHub](https://github.com/knightempire) | [LinkedIn](https://www.linkedin.com/in/abinesh-t-4732a8222/)  
-**R Kaviswar**: [GitHub](https://github.com/Kaviswar45) | [LinkedIn](https://www.linkedin.com/in/kaviswar45)
+**Abinesh T** [GitHub](https://github.com/knightempire) | [LinkedIn](https://www.linkedin.com/in/abinesh-t-4732a8222/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **R Kaviswar** [GitHub](https://github.com/Kaviswar45) | [LinkedIn](https://www.linkedin.com/in/kaviswar45)
+
 
 ## Join Us
 
@@ -35,4 +35,3 @@ Feel free to reach out to us on our GitHub profiles for any questions or assista
 ---
 
 **Happy Coding!**
-
