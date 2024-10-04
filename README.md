@@ -1,9 +1,9 @@
 # Node.js Workshop
 
-Welcome to our Node.js workshop! In this session, we'll cover essential topics to get you started with Node.js and database integration. 
+Welcome to our Node.js workshop! In this session, we'll cover essential topics to get you started with Node.js and database integration.
 
 ## Agenda
- 
+
 1. **Setting Up a Node.js Server**
    - We'll begin by covering the essentials of setting up a Node.js server.
 
@@ -21,8 +21,13 @@ Here’s a visual representation of our database schema:
 
 ## Instructors
 
-- ![Instructor 1](https://avatars.githubusercontent.com/u/135836695?v=4) [Knightempire](https://github.com/knightempire)
-- ![Instructor 2](https://avatars.githubusercontent.com/u/108071239?v=4) [Kaviswar45](https://github.com/Kaviswar45)
+![Instructors](https://i.ibb.co/yfC9kQr)
+
+**Abinesh T**  
+[GitHub](https://github.com/knightempire) | [LinkedIn](https://www.linkedin.com/in/abinesh-t-4732a8222/)
+
+**R Kaviswar**  
+[GitHub](https://github.com/Kaviswar45) | [LinkedIn](https://www.linkedin.com/in/kaviswar45)
 
 ## Join Us
 
