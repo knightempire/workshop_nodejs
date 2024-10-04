@@ -60,14 +60,14 @@ In this project, we will implement a user authentication system using Node.js, E
 
 ## Abinesh T  
 ![Abinesh T](https://github.com/knightempire.png)  
-[GitHub](https://github.com/knightempire) | [LinkedIn](https://www.linkedin.com/in/abinesh-t-4732a8222/)  
+[![GitHub](https://img.icons8.com/ios-filled/24/000000/github.png)](https://github.com/knightempire) [![LinkedIn](https://img.icons8.com/ios-filled/24/000000/linkedin.png)](https://www.linkedin.com/in/abinesh-t-4732a8222/)  
 Roll No: CB.EN.U4CSE21302
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 ## R Kaviswar  
 ![R Kaviswar](https://github.com/Kaviswar45.png)  
-[GitHub](https://github.com/Kaviswar45) | [LinkedIn](https://www.linkedin.com/in/kaviswar45)  
+[![GitHub](https://img.icons8.com/ios-filled/24/000000/github.png)](https://github.com/Kaviswar45) [![LinkedIn](https://img.icons8.com/ios-filled/24/000000/linkedin.png)](https://www.linkedin.com/in/kaviswar45)  
 Roll No: CB.EN.U4CSE21345
 
 
