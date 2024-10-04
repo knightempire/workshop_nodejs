@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Register</title>
-
+    <link rel="stylesheet" href="./css/register.css">
 </head>
 
 <body>
@@ -17,11 +17,20 @@
 
     <div class="form-container">
         <h2>Register</h2>
-        <form action="/api/register" method="POST">
+        <form action="" method="POST" onsubmit="handleRegister(event)">
             <input type="text" id="fullname" name="fullname" placeholder="Full Name" required>
-            <input type="email" id="email" name="email" placeholder="Email" required>
-            <input type="text" id="username" name="username" placeholder="Username" required>
+            <input type="text" id="roll_no" name="roll_no" placeholder="Roll Number" required>
+            <input type="date" id="dob" name="dob" placeholder="Date of Birth" required>
             <input type="password" id="password" name="password" placeholder="Password" required>
+            <input type="password" id="confirm_password" name="confirm_password" placeholder="Confirm Password" required>
+
+            <label for="role">Choose Role:</label>
+            <select id="role" name="user_type" required>
+                <option value="" disabled selected>Select your role</option>
+                <option value="admin">Admin</option>
+                <option value="user">User</option>
+            </select>
+
             <input type="submit" value="Register">
         </form>
         <p>Already have an account? <a href="./login.html">Login</a></p>
@@ -29,6 +38,5 @@
 </body>
 
 </html>
-
 
 <script src="./script/register.js"></script>
