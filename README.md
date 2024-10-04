@@ -56,11 +56,20 @@ In this project, we will implement a user authentication system using Node.js, E
 - We use a MySQL connection to handle data operations, such as inserting new users and verifying login credentials.
 
 
-## Instructors
+# Instructors
 
-![Instructors](https://i.imgur.com/9i1Nm1m.png)
+## Abinesh T  
+![Abinesh T](https://github.com/knightempire.png)  
+[GitHub](https://github.com/knightempire) | [LinkedIn](https://www.linkedin.com/in/abinesh-t-4732a8222/)  
+Roll No: CB.EN.U4CSE21302
 
-**Abinesh T** [GitHub](https://github.com/knightempire) | [LinkedIn](https://www.linkedin.com/in/abinesh-t-4732a8222/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **R Kaviswar** [GitHub](https://github.com/Kaviswar45) | [LinkedIn](https://www.linkedin.com/in/kaviswar45)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
+## R Kaviswar  
+![R Kaviswar](https://github.com/Kaviswar45.png)  
+[GitHub](https://github.com/Kaviswar45) | [LinkedIn](https://www.linkedin.com/in/kaviswar45)  
+Roll No: CB.EN.U4CSE21345
+
 
 
 ## Join Us
