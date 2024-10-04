@@ -21,7 +21,7 @@ Here’s a visual representation of our database schema:
 
 ## Instructors
 
-![Instructors](https://i.ibb.co/yfC9kQr)
+![Instructors](https://ibb.co/yfC9kQr)
 
 **Abinesh T**  
 [GitHub](https://github.com/knightempire) | [LinkedIn](https://www.linkedin.com/in/abinesh-t-4732a8222/)
